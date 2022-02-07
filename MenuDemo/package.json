@@ -1,0 +1,11 @@
+{
+	"name": "menu-demo",
+	"version": "1.0.0",
+	"main": "main.js",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  },
+	"scripts": {
+		"start": "electron ."
+	}
+}
